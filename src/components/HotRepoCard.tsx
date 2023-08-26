@@ -13,7 +13,7 @@ import useRepo from "../hooks/useRepo";
 import useVotedRepos from "../hooks/useVotedRepos";
 import useContributions from "../hooks/useContributions";
 
-const bugReportLink = "https://github.com/open-sauced/hot/issues/new?assignees=&title=fix:";
+const bugReportLink = "https://github.com/khulnasoft-opensource/hot/issues/new?assignees=&title=fix:";
 
 export declare interface HotRepoCardProps {
   repoName: string;
@@ -100,7 +100,7 @@ const HotRepoCard = ({ repoName }: HotRepoCardProps): JSX.Element => {
       <div className="flex flex-col pb-10">
         <a
           className="text-xl font-semibold"
-          href={`https://insights.opensauced.pizza/hot/repositories/filter/${full_name}`}
+          href={`https://insights.khulnasoft.com/hot/repositories/filter/${full_name}`}
           rel="noopener noreferrer"
           target="_blank"
         >

@@ -1,11 +1,11 @@
 {
-  "name": "@open-sauced/hot",
+  "name": "@khulnasoft-opensource/hot",
   "version": "2.33.2-beta.1",
   "lockfileVersion": 3,
   "requires": true,
   "packages": {
     "": {
-      "name": "@open-sauced/hot",
+      "name": "@khulnasoft-opensource/hot",
       "version": "2.33.2-beta.1",
       "hasInstallScript": true,
       "license": "MIT",
@@ -31,8 +31,8 @@
       },
       "devDependencies": {
         "@nabla/vite-plugin-eslint": "^1.4.1",
-        "@open-sauced/check-engines": "^1.2.0",
-        "@open-sauced/conventional-commit": "^1.0.1",
+        "@khulnasoft-opensource/check-engines": "^1.2.0",
+        "@khulnasoft-opensource/conventional-commit": "^1.0.1",
         "@playwright/test": "^1.27.1",
         "@testing-library/react": "^13.3.0",
         "@testing-library/react-hooks": "^7.0.2",
@@ -82,8 +82,8 @@
         "whatwg-fetch": "^3.6.2"
       },
       "engines": {
-        "node": ">= 16.7.0",
-        "npm": ">= 8.0.0"
+        "node": ">=18",
+        "npm": ">=8"
       }
     },
     "node_modules/@ampproject/remapping": {
@@ -1309,9 +1309,9 @@
         "node": ">= 8"
       }
     },
-    "node_modules/@open-sauced/check-engines": {
+    "node_modules/@khulnasoft-opensource/check-engines": {
       "version": "1.2.0",
-      "resolved": "https://registry.npmjs.org/@open-sauced/check-engines/-/check-engines-1.2.0.tgz",
+      "resolved": "https://registry.npmjs.org/@khulnasoft-opensource/check-engines/-/check-engines-1.2.0.tgz",
       "integrity": "sha512-/lH+1v5PWVfo4Y17ZmMrDvdMhq9+0ozsJNN6vYWfQzH1c5keY5C40S5VwkZg3pjaXspE6ArB52Pnw/N8uRG9IQ==",
       "dev": true,
       "dependencies": {
@@ -1325,9 +1325,9 @@
         "npm": ">=3"
       }
     },
-    "node_modules/@open-sauced/conventional-commit": {
+    "node_modules/@khulnasoft-opensource/conventional-commit": {
       "version": "1.0.1",
-      "resolved": "https://registry.npmjs.org/@open-sauced/conventional-commit/-/conventional-commit-1.0.1.tgz",
+      "resolved": "https://registry.npmjs.org/@khulnasoft-opensource/conventional-commit/-/conventional-commit-1.0.1.tgz",
       "integrity": "sha512-80/ehArPmDqLsp/UUVVixUEdyNsLmlckAYXNwrHhp9A5O3J0epWf5YGwtdsGoCdu5ky90j638wNn+GQQhFJrBA==",
       "dev": true,
       "dependencies": {

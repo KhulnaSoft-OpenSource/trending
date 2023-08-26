@@ -35,7 +35,7 @@ export const StarTheRepo = ({ userAndTokens }: StarTheRepoProps): JSX.Element | 
   return (
     <div className={`hidden sm:flex items-center opacity-${opacity} text-osGrey transition-opacity font-Inter`}>
       <a
-        href="https://github.com/open-sauced/hot"
+        href="https://github.com/khulnasoft-opensource/hot"
         rel="noreferrer"
         target="_blank"
       >

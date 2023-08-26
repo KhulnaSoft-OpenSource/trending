@@ -42,7 +42,7 @@ const LeftSide = ({ deployment }: LeftSideProps) => (
       <li className="text-base mr-4 py-[2px] px-[7px] bg-[#2C3137] rounded-md">
         <a
           className="align-middle no-underline text-white"
-          href={`https://github.com/open-sauced/open-sauced/releases/tag/v${getAppVersion()}`}
+          href={`https://github.com/khulnasoft-opensource/khulnasoft-opensource/releases/tag/v${getAppVersion()}`}
           rel="noreferrer"
           target="_blank"
         >
@@ -107,7 +107,7 @@ const RightSide = ({ timing, repoCount }: RightSideProps) => (
       <li className="text-base mr-4 py-[2px] px-[7px] bg-[#2C3137] rounded-md">
         <a
           className="align-middle no-underline text-white"
-          href="https://github.com/search?o=desc&q=open-sauced-goals&s=updated&type=Repositories"
+          href="https://github.com/search?o=desc&q=khulnasoft-opensource-goals&s=updated&type=Repositories"
           rel="noreferrer"
           target="_blank"
         >

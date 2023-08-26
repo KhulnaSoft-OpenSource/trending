@@ -125,7 +125,7 @@ const Hero = () => {
                     key={data.full_name}
                     as="a"
                     className={({ active }) => (active ? "bg-gray-50" : "")}
-                    value={`https://insights.opensauced.pizza/hot/repositories/filter/${data.full_name}`}
+                    value={`https://insights.khulnasoft.com/hot/repositories/filter/${data.full_name}`}
                   >
                     <SearchedRepoCard
                       data={data}

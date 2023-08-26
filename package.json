@@ -1,5 +1,5 @@
 {
-  "name": "@open-sauced/hot",
+  "name": "@khulnasoft-opensource/hot",
   "description": "🍕The site that recommends the hottest sauce.",
   "keywords": [],
   "version": "2.33.2-beta.1",
@@ -10,13 +10,13 @@
   "files": [
     "build/**/*"
   ],
-  "homepage": "https://hot.opensauced.pizza",
+  "homepage": "https://hot.khulnasoft.com",
   "bugs": {
-    "url": "https://github.com/open-sauced/hot/issues"
+    "url": "https://github.com/khulnasoft-opensource/hot/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/open-sauced/hot.git"
+    "url": "git+ssh://git@github.com/khulnasoft-opensource/hot.git"
   },
   "engines": {
     "node": ">=18",
@@ -25,10 +25,10 @@
   "scripts": {
     "types:auto-add": "npx typesync",
     "types:auto-check": "npm run types:auto-add -- --dry",
-    "preinstall": "npx @open-sauced/check-engines",
-    "prestart": "npx @open-sauced/check-engines",
+    "preinstall": "npx @khulnasoft-opensource/check-engines",
+    "prestart": "npx @khulnasoft-opensource/check-engines",
     "pretest": "npm run test:e2e-install",
-    "push": "npx @open-sauced/conventional-commit",
+    "push": "npx @khulnasoft-opensource/conventional-commit",
     "start": "npx vite",
     "build": "npx tsc && npx vite build",
     "serve": "npx vite preview",
@@ -71,8 +71,8 @@
   },
   "devDependencies": {
     "@nabla/vite-plugin-eslint": "^1.4.1",
-    "@open-sauced/check-engines": "^1.2.0",
-    "@open-sauced/conventional-commit": "^1.0.1",
+    "@khulnasoft-opensource/check-engines": "^1.2.0",
+    "@khulnasoft-opensource/conventional-commit": "^1.0.1",
     "@playwright/test": "^1.27.1",
     "@testing-library/react": "^13.3.0",
     "@testing-library/react-hooks": "^7.0.2",

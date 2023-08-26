@@ -1,34 +1,34 @@
 <div align="center">
   <br>
   <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
-  <h1>🍕 hot.opensauced.pizza 🍕</h1>
+  <h1>🍕 hot.khulnasoft.com 🍕</h1>
   <strong>The site that recommends the hottest sauce. Inspired by <a href="https://daily.dev/">daily.dev</a></strong>
 </div>
 <br>
 <p align="center">
-  <a href="https://github.com/open-sauced/hot/actions/workflows/release.yml">
-    <img src="https://github.com/open-sauced/hot/actions/workflows/release.yml/badge.svg" alt="Release" style="max-width: 100%;">
+  <a href="https://github.com/khulnasoft-opensource/hot/actions/workflows/release.yml">
+    <img src="https://github.com/khulnasoft-opensource/hot/actions/workflows/release.yml/badge.svg" alt="Release" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/open-sauced/hot/actions/workflows/compliance.yml">
-    <img src="https://github.com/open-sauced/hot/actions/workflows/compliance.yml/badge.svg" alt="Compliance" style="max-width: 100%;">
+  <a href="https://github.com/khulnasoft-opensource/hot/actions/workflows/compliance.yml">
+    <img src="https://github.com/khulnasoft-opensource/hot/actions/workflows/compliance.yml/badge.svg" alt="Compliance" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/open-sauced/hot/actions/workflows/codeql-analysis.yml">
-    <img src="https://github.com/open-sauced/hot/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL" style="max-width: 100%;">
+  <a href="https://github.com/khulnasoft-opensource/hot/actions/workflows/codeql-analysis.yml">
+    <img src="https://github.com/khulnasoft-opensource/hot/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL" style="max-width: 100%;">
   </a>
   <img src="https://img.shields.io/badge/Dependabot-active-brightgreen.svg" alt="Dependabot Badge">
-  <img src="https://img.shields.io/github/languages/code-size/open-sauced/hot" alt="GitHub code size in bytes">
-  <img src="https://img.shields.io/github/commit-activity/w/open-sauced/hot" alt="GitHub commit activity">
-  <a href="https://github.com/open-sauced/hot/issues">
-    <img src="https://img.shields.io/github/issues/open-sauced/hot" alt="GitHub issues">
+  <img src="https://img.shields.io/github/languages/code-size/khulnasoft-opensource/hot" alt="GitHub code size in bytes">
+  <img src="https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/hot" alt="GitHub commit activity">
+  <a href="https://github.com/khulnasoft-opensource/hot/issues">
+    <img src="https://img.shields.io/github/issues/khulnasoft-opensource/hot" alt="GitHub issues">
   </a>
-  <a href="https://github.com/open-sauced/hot/releases">
-    <img src="https://img.shields.io/github/v/release/open-sauced/hot.svg?style=flat" alt="GitHub Release">
+  <a href="https://github.com/khulnasoft-opensource/hot/releases">
+    <img src="https://img.shields.io/github/v/release/khulnasoft-opensource/hot.svg?style=flat" alt="GitHub Release">
   </a>
   <a href="https://discord.gg/U2peSNf23P">
     <img src="https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
   </a>
-  <a href="https://twitter.com/saucedopen">
-    <img src="https://img.shields.io/twitter/follow/saucedopen?label=Follow&style=social" alt="Twitter">
+  <a href="https://twitter.com/khulnasoft">
+    <img src="https://img.shields.io/twitter/follow/khulnasoft?label=Follow&style=social" alt="Twitter">
   </a>
 </p>
 
@@ -76,14 +76,14 @@ For writing tests, the rule is move business or service logic to the lib folder 
 A development preview can also be run from docker:
 
 ```shell
-docker build -t open-sauced-hot .
-docker run -p 8080:80 open-sauced-hot
+docker build -t khulnasoft-opensource-hot .
+docker run -p 8080:80 khulnasoft-opensource-hot
 ```
 
 Alternatively you can pull the production container and skip all builds:
 
 ```shell
-docker run -dit -p 8080:80 ghcr.io/open-sauced/hot
+docker run -dit -p 8080:80 ghcr.io/khulnasoft-opensource/hot
 ```
 
 ### 🎨 Code linting
@@ -130,9 +130,9 @@ npm run build
 
 ## 🤝 Contributing
 
-We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](https://docs.opensauced.pizza/contributing/introduction-to-contributing/) for guidelines about how to proceed.
+We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](https://docs.khulnasoft.com/contributing/introduction-to-contributing/) for guidelines about how to proceed.
 
-We have a commit utility called [@open-sauced/conventional-commit](https://github.com/open-sauced/conventional-commit) that helps you write your commits in a way that is easy to understand and process by others.
+We have a commit utility called [@khulnasoft-opensource/conventional-commit](https://github.com/khulnasoft-opensource/conventional-commit) that helps you write your commits in a way that is easy to understand and process by others.
 
 It is generally integrated as an `npm` script but you can run it with `npx` as well:
 
@@ -143,7 +143,7 @@ npm run push
 For any other npm based project or dotnpmrc defaulting to `--yes`:
 
 ```shell
-npx -y @open-sauced/conventional-commit
+npx -y @khulnasoft-opensource/conventional-commit
 ```
 
 ## 🍕 Community
