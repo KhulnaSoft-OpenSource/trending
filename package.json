@@ -1,22 +1,22 @@
 {
-  "name": "@khulnasoft-opensource/hot",
-  "description": "🍕The site that recommends the hottest sauce.",
+  "name": "@khulnasoft-opensource/trending",
+  "description": "🍕The site that recommends the trendingtest khulnasoft.",
   "keywords": [],
   "version": "2.33.2-beta.1",
-  "author": "TED Vortex <ted.vortex@gmail.com>",
+  "author": "Md Sulaiman <infosulaimanbd@gmail.com>",
   "private": true,
   "license": "MIT",
   "type": "module",
   "files": [
     "build/**/*"
   ],
-  "homepage": "https://hot.khulnasoft.com",
+  "homepage": "https://trending.khulnasoft.com",
   "bugs": {
-    "url": "https://github.com/khulnasoft-opensource/hot/issues"
+    "url": "https://github.com/khulnasoft-opensource/trending/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/khulnasoft-opensource/hot.git"
+    "url": "git+ssh://git@github.com/khulnasoft-opensource/trending.git"
   },
   "engines": {
     "node": ">=18",
