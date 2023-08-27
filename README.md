@@ -1,6 +1,5 @@
 <div align="center">
   <br>
-  <img alt="Open Sauced" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
   <h1>🍕 hot.khulnasoft.com 🍕</h1>
   <strong>The site that recommends the hottest sauce. Inspired by <a href="https://daily.dev/">daily.dev</a></strong>
 </div>
