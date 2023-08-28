@@ -1,5 +1,5 @@
 import { FaDev, FaDiscord } from "react-icons/fa";
-import OpenSaucedLogo from "../assets/openSauced-icon.png";
+import KhulnaSoftLogo from "../assets/khulnaSoft-icon.png";
 
 // icons
 import
@@ -18,8 +18,8 @@ const footerContext = [
     status: { url: "https://status.khulnasoft.com", text: "Status" },
   },
   {
-    hot: { url: "https://hot.khulnasoft.com", text: "hot.khulnasoft.com" },
-    openSauced: { url: "https://khulnasoft.com", text: "khulnasoft.com" },
+    hot: { url: "https://trending.khulnasoft.com", text: "trending.khulnasoft.com" },
+    khulnaSoft: { url: "https://khulnasoft.com", text: "khulnasoft.com" },
   },
   {
     socials: [
@@ -65,11 +65,11 @@ const Footer = (): JSX.Element => (
           <div className="w-6 h-6 relative !min-w-[24px] min-h-[24px]">
             <img
               alt="brand logo"
-              src={OpenSaucedLogo}
+              src={KhulnaSoftLogo}
             />
           </div>
 
-          <span className="lg:hidden font-bold text-light-slate-12 ">OpenSauced</span>
+          <span className="lg:hidden font-bold text-light-slate-12 ">KhulnaSoft</span>
 
           <p className="hidden !text-light-slate-9 lg:inline-block">
             ©
@@ -79,7 +79,7 @@ const Footer = (): JSX.Element => (
 
             {" "}
 
-            <span className="hidden lg:inline-block">OpenSauced</span>
+            <span className="hidden lg:inline-block">KhulnaSoft</span>
           </p>
         </div>
 
@@ -95,11 +95,11 @@ const Footer = (): JSX.Element => (
 
           <a
             className="px-2 hover:text-light-slate-12"
-            href={footerContext[1].openSauced?.url}
+            href={footerContext[1].khulnaSoft?.url}
             rel="noopener noreferrer"
             target="_blank"
           >
-            {footerContext[1].openSauced?.text}
+            {footerContext[1].khulnaSoft?.text}
           </a>
         </div>
 

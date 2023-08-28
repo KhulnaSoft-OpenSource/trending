@@ -13,7 +13,7 @@ import useRepo from "../hooks/useRepo";
 import useVotedRepos from "../hooks/useVotedRepos";
 import useContributions from "../hooks/useContributions";
 
-const bugReportLink = "https://github.com/khulnasoft-opensource/hot/issues/new?assignees=&title=fix:";
+const bugReportLink = "https://github.com/khulnasoft-opensource/trending/issues/new?assignees=&title=fix:";
 
 export declare interface HotRepoCardProps {
   repoName: string;

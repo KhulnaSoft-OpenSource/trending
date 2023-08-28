@@ -1,27 +1,27 @@
 <div align="center">
   <br>
-  <h1>🍕 hot.khulnasoft.com 🍕</h1>
+  <h1>🍕 trending.khulnasoft.com 🍕</h1>
   <strong>The site that recommends the hottest sauce. Inspired by <a href="https://daily.dev/">daily.dev</a></strong>
 </div>
 <br>
 <p align="center">
-  <a href="https://github.com/khulnasoft-opensource/hot/actions/workflows/release.yml">
-    <img src="https://github.com/khulnasoft-opensource/hot/actions/workflows/release.yml/badge.svg" alt="Release" style="max-width: 100%;">
+  <a href="https://github.com/khulnasoft-opensource/trending/actions/workflows/release.yml">
+    <img src="https://github.com/khulnasoft-opensource/trending/actions/workflows/release.yml/badge.svg" alt="Release" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/khulnasoft-opensource/hot/actions/workflows/compliance.yml">
-    <img src="https://github.com/khulnasoft-opensource/hot/actions/workflows/compliance.yml/badge.svg" alt="Compliance" style="max-width: 100%;">
+  <a href="https://github.com/khulnasoft-opensource/trending/actions/workflows/compliance.yml">
+    <img src="https://github.com/khulnasoft-opensource/trending/actions/workflows/compliance.yml/badge.svg" alt="Compliance" style="max-width: 100%;">
   </a>
-  <a href="https://github.com/khulnasoft-opensource/hot/actions/workflows/codeql-analysis.yml">
-    <img src="https://github.com/khulnasoft-opensource/hot/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL" style="max-width: 100%;">
+  <a href="https://github.com/khulnasoft-opensource/trending/actions/workflows/codeql-analysis.yml">
+    <img src="https://github.com/khulnasoft-opensource/trending/actions/workflows/codeql-analysis.yml/badge.svg" alt="CodeQL" style="max-width: 100%;">
   </a>
   <img src="https://img.shields.io/badge/Dependabot-active-brightgreen.svg" alt="Dependabot Badge">
-  <img src="https://img.shields.io/github/languages/code-size/khulnasoft-opensource/hot" alt="GitHub code size in bytes">
-  <img src="https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/hot" alt="GitHub commit activity">
-  <a href="https://github.com/khulnasoft-opensource/hot/issues">
-    <img src="https://img.shields.io/github/issues/khulnasoft-opensource/hot" alt="GitHub issues">
+  <img src="https://img.shields.io/github/languages/code-size/khulnasoft-opensource/trending" alt="GitHub code size in bytes">
+  <img src="https://img.shields.io/github/commit-activity/w/khulnasoft-opensource/trending" alt="GitHub commit activity">
+  <a href="https://github.com/khulnasoft-opensource/trending/issues">
+    <img src="https://img.shields.io/github/issues/khulnasoft-opensource/trending" alt="GitHub issues">
   </a>
-  <a href="https://github.com/khulnasoft-opensource/hot/releases">
-    <img src="https://img.shields.io/github/v/release/khulnasoft-opensource/hot.svg?style=flat" alt="GitHub Release">
+  <a href="https://github.com/khulnasoft-opensource/trending/releases">
+    <img src="https://img.shields.io/github/v/release/khulnasoft-opensource/trending.svg?style=flat" alt="GitHub Release">
   </a>
   <a href="https://discord.gg/U2peSNf23P">
     <img src="https://img.shields.io/discord/714698561081704529.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
@@ -82,7 +82,7 @@ docker run -p 8080:80 khulnasoft-opensource-hot
 Alternatively you can pull the production container and skip all builds:
 
 ```shell
-docker run -dit -p 8080:80 ghcr.io/khulnasoft-opensource/hot
+docker run -dit -p 8080:80 ghcr.io/khulnasoft-opensource/trending
 ```
 
 ### 🎨 Code linting
@@ -129,7 +129,7 @@ npm run build
 
 ## 🤝 Contributing
 
-We encourage you to contribute to Open Sauced! Please check out the [Contributing guide](https://docs.khulnasoft.com/contributing/introduction-to-contributing/) for guidelines about how to proceed.
+We encourage you to contribute to Khulna Soft! Please check out the [Contributing guide](https://docs.khulnasoft.com/contributing/introduction-to-contributing/) for guidelines about how to proceed.
 
 We have a commit utility called [@khulnasoft-opensource/conventional-commit](https://github.com/khulnasoft-opensource/conventional-commit) that helps you write your commits in a way that is easy to understand and process by others.
 
@@ -148,7 +148,7 @@ npx -y @khulnasoft-opensource/conventional-commit
 ## 🍕 Community
 
 Got Questions? Join the conversation in our [Discord](https://discord.gg/U2peSNf23P).  
-Find Open Sauced videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
+Find Khulna Soft videos and release overviews on our [YouTube Channel](https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ).
 
 ## 🎦 Repository Visualization
 
@@ -157,4 +157,4 @@ Find Open Sauced videos and release overviews on our [YouTube Channel](https://w
 
 ## ⚖️ LICENSE
 
-MIT © [Open Sauced](LICENSE)
+MIT © [Khulna Soft](LICENSE)

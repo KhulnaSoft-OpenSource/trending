@@ -86,7 +86,7 @@ export default defineConfig(({command, mode}: ConfigEnv): UserConfig => {
       minify: isProd && isBuild,
       inject: {
         data: {
-          title: `Hot Open Sauced v${process.env.npm_package_version}`,
+          title: `Hot Khulna Soft v${process.env.npm_package_version}`,
           date: new Date().toISOString(),
         },
       },

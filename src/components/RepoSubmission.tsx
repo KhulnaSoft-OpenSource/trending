@@ -106,7 +106,7 @@ const RepoSubmission = ({ isFormOpen, handleFormOpen }: RepoSubmissionProps): JS
 
           <input
             className="bg-gray-200 py-1 w-full px-2.5 rounded-md outline-yellow-300 text-gray-500 text-xs  "
-            placeholder="https://github.com/khulnasoft-opensource/hot"
+            placeholder="https://github.com/khulnasoft-opensource/trending"
             type="text"
             onChange={e => setInput(e.target.value)}
           />

@@ -1,118 +1,118 @@
-# 📦 khulnasoft-opensource/hot changelog
+# 📦 khulnasoft-opensource/trending changelog
 
 [![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![semantic versioning](https://img.shields.io/badge/semantic%20versioning-2.0.0-green.svg)](https://semver.org)
 
 > All notable changes to this project will be documented in this file
 
-## [2.33.2-beta.1](https://github.com/khulnasoft-opensource/hot/compare/v2.33.1...v2.33.2-beta.1) (2023-08-22)
+## [2.33.2-beta.1](https://github.com/khulnasoft-opensource/trending/compare/v2.33.1...v2.33.2-beta.1) (2023-08-22)
 
 
 ### 🐛 Bug Fixes
 
-* fixed nav menu button ([#483](https://github.com/khulnasoft-opensource/hot/issues/483)) ([dba7890](https://github.com/khulnasoft-opensource/hot/commit/dba789099c3bc0cb847c9d927d39d4cbd1da0147))
+* fixed nav menu button ([#483](https://github.com/khulnasoft-opensource/trending/issues/483)) ([dba7890](https://github.com/khulnasoft-opensource/trending/commit/dba789099c3bc0cb847c9d927d39d4cbd1da0147))
 
-## [2.33.1](https://github.com/khulnasoft-opensource/hot/compare/v2.33.0...v2.33.1) (2023-08-11)
-
-
-### 🐛 Bug Fixes
-
-* Footer position on initial render ([#474](https://github.com/khulnasoft-opensource/hot/issues/474)) ([676477d](https://github.com/khulnasoft-opensource/hot/commit/676477dcc71a7acf496c2c0c1bbe9042a4f56d76))
-* Load more button visibility issue  and now loads data upon clicking ([#478](https://github.com/khulnasoft-opensource/hot/issues/478)) ([43f1fb0](https://github.com/khulnasoft-opensource/hot/commit/43f1fb0e0ff6dbfc29dce5e8fd4d3d0569a7e72e))
-* Styled input field ([#475](https://github.com/khulnasoft-opensource/hot/issues/475)) ([4f2d743](https://github.com/khulnasoft-opensource/hot/commit/4f2d743ad9ada77ce7c42bbb68ceb174b4764f3a))
-
-## [2.33.1-beta.3](https://github.com/khulnasoft-opensource/hot/compare/v2.33.1-beta.2...v2.33.1-beta.3) (2023-08-11)
+## [2.33.1](https://github.com/khulnasoft-opensource/trending/compare/v2.33.0...v2.33.1) (2023-08-11)
 
 
 ### 🐛 Bug Fixes
 
-* Load more button visibility issue  and now loads data upon clicking ([#478](https://github.com/khulnasoft-opensource/hot/issues/478)) ([43f1fb0](https://github.com/khulnasoft-opensource/hot/commit/43f1fb0e0ff6dbfc29dce5e8fd4d3d0569a7e72e))
+* Footer position on initial render ([#474](https://github.com/khulnasoft-opensource/trending/issues/474)) ([676477d](https://github.com/khulnasoft-opensource/trending/commit/676477dcc71a7acf496c2c0c1bbe9042a4f56d76))
+* Load more button visibility issue  and now loads data upon clicking ([#478](https://github.com/khulnasoft-opensource/trending/issues/478)) ([43f1fb0](https://github.com/khulnasoft-opensource/trending/commit/43f1fb0e0ff6dbfc29dce5e8fd4d3d0569a7e72e))
+* Styled input field ([#475](https://github.com/khulnasoft-opensource/trending/issues/475)) ([4f2d743](https://github.com/khulnasoft-opensource/trending/commit/4f2d743ad9ada77ce7c42bbb68ceb174b4764f3a))
 
-## [2.33.1-beta.2](https://github.com/khulnasoft-opensource/hot/compare/v2.33.1-beta.1...v2.33.1-beta.2) (2023-07-18)
-
-
-### 🐛 Bug Fixes
-
-* Footer position on initial render ([#474](https://github.com/khulnasoft-opensource/hot/issues/474)) ([676477d](https://github.com/khulnasoft-opensource/hot/commit/676477dcc71a7acf496c2c0c1bbe9042a4f56d76))
-
-## [2.33.1-beta.1](https://github.com/khulnasoft-opensource/hot/compare/v2.33.0...v2.33.1-beta.1) (2023-07-15)
+## [2.33.1-beta.3](https://github.com/khulnasoft-opensource/trending/compare/v2.33.1-beta.2...v2.33.1-beta.3) (2023-08-11)
 
 
 ### 🐛 Bug Fixes
 
-* Styled input field ([#475](https://github.com/khulnasoft-opensource/hot/issues/475)) ([4f2d743](https://github.com/khulnasoft-opensource/hot/commit/4f2d743ad9ada77ce7c42bbb68ceb174b4764f3a))
+* Load more button visibility issue  and now loads data upon clicking ([#478](https://github.com/khulnasoft-opensource/trending/issues/478)) ([43f1fb0](https://github.com/khulnasoft-opensource/trending/commit/43f1fb0e0ff6dbfc29dce5e8fd4d3d0569a7e72e))
 
-## [2.33.0](https://github.com/khulnasoft-opensource/hot/compare/v2.32.0...v2.33.0) (2023-05-25)
+## [2.33.1-beta.2](https://github.com/khulnasoft-opensource/trending/compare/v2.33.1-beta.1...v2.33.1-beta.2) (2023-07-18)
+
+
+### 🐛 Bug Fixes
+
+* Footer position on initial render ([#474](https://github.com/khulnasoft-opensource/trending/issues/474)) ([676477d](https://github.com/khulnasoft-opensource/trending/commit/676477dcc71a7acf496c2c0c1bbe9042a4f56d76))
+
+## [2.33.1-beta.1](https://github.com/khulnasoft-opensource/trending/compare/v2.33.0...v2.33.1-beta.1) (2023-07-15)
+
+
+### 🐛 Bug Fixes
+
+* Styled input field ([#475](https://github.com/khulnasoft-opensource/trending/issues/475)) ([4f2d743](https://github.com/khulnasoft-opensource/trending/commit/4f2d743ad9ada77ce7c42bbb68ceb174b4764f3a))
+
+## [2.33.0](https://github.com/khulnasoft-opensource/trending/compare/v2.32.0...v2.33.0) (2023-05-25)
 
 
 ### 🍕 Features
 
-* Remove khulnasoft-opensource/khulnasoft-opensource workflows ([#470](https://github.com/khulnasoft-opensource/hot/issues/470)) ([4ab3e53](https://github.com/khulnasoft-opensource/hot/commit/4ab3e53792d1b672f1f5eeb5808c621e271e546e))
+* Remove khulnasoft-opensource/khulnasoft-opensource workflows ([#470](https://github.com/khulnasoft-opensource/trending/issues/470)) ([4ab3e53](https://github.com/khulnasoft-opensource/trending/commit/4ab3e53792d1b672f1f5eeb5808c621e271e546e))
 
 
 ### 🐛 Bug Fixes
 
-* add workflow_call to triage.yml ([3a1bc14](https://github.com/khulnasoft-opensource/hot/commit/3a1bc1416588f4febc4cc219e44e6af48ec95aef))
+* add workflow_call to triage.yml ([3a1bc14](https://github.com/khulnasoft-opensource/trending/commit/3a1bc1416588f4febc4cc219e44e6af48ec95aef))
 
-## [2.33.0-beta.2](https://github.com/khulnasoft-opensource/hot/compare/v2.33.0-beta.1...v2.33.0-beta.2) (2023-05-25)
+## [2.33.0-beta.2](https://github.com/khulnasoft-opensource/trending/compare/v2.33.0-beta.1...v2.33.0-beta.2) (2023-05-25)
 
 
 ### 🐛 Bug Fixes
 
-* add workflow_call to triage.yml ([3a1bc14](https://github.com/khulnasoft-opensource/hot/commit/3a1bc1416588f4febc4cc219e44e6af48ec95aef))
+* add workflow_call to triage.yml ([3a1bc14](https://github.com/khulnasoft-opensource/trending/commit/3a1bc1416588f4febc4cc219e44e6af48ec95aef))
 
-## [2.33.0-beta.1](https://github.com/khulnasoft-opensource/hot/compare/v2.32.0...v2.33.0-beta.1) (2023-05-24)
+## [2.33.0-beta.1](https://github.com/khulnasoft-opensource/trending/compare/v2.32.0...v2.33.0-beta.1) (2023-05-24)
 
 
 ### 🍕 Features
 
-* Remove khulnasoft-opensource/khulnasoft-opensource workflows ([#470](https://github.com/khulnasoft-opensource/hot/issues/470)) ([4ab3e53](https://github.com/khulnasoft-opensource/hot/commit/4ab3e53792d1b672f1f5eeb5808c621e271e546e))
+* Remove khulnasoft-opensource/khulnasoft-opensource workflows ([#470](https://github.com/khulnasoft-opensource/trending/issues/470)) ([4ab3e53](https://github.com/khulnasoft-opensource/trending/commit/4ab3e53792d1b672f1f5eeb5808c621e271e546e))
 
-## [2.32.0](https://github.com/khulnasoft-opensource/hot/compare/v2.31.0...v2.32.0) (2023-05-21)
+## [2.32.0](https://github.com/khulnasoft-opensource/trending/compare/v2.31.0...v2.32.0) (2023-05-21)
 
 
 ### 🐛 Bug Fixes
 
-* correct squoosh leveled dependencies ([#468](https://github.com/khulnasoft-opensource/hot/issues/468)) ([c6da752](https://github.com/khulnasoft-opensource/hot/commit/c6da7523180ed6789bd9ae2189e152cc7faafa0a))
+* correct squoosh leveled dependencies ([#468](https://github.com/khulnasoft-opensource/trending/issues/468)) ([c6da752](https://github.com/khulnasoft-opensource/trending/commit/c6da7523180ed6789bd9ae2189e152cc7faafa0a))
 
 
 ### 🔁 Continuous Integration
 
-* correct build environment ([7b6ee33](https://github.com/khulnasoft-opensource/hot/commit/7b6ee335256a3f78158b6be5a33e395e92a50518))
+* correct build environment ([7b6ee33](https://github.com/khulnasoft-opensource/trending/commit/7b6ee335256a3f78158b6be5a33e395e92a50518))
 
 
 ### 🤖 Build System
 
-* correct node version in docker build ([ccd2f6c](https://github.com/khulnasoft-opensource/hot/commit/ccd2f6c8da01d1827f8a42423d3212f1e5f42ff2))
+* correct node version in docker build ([ccd2f6c](https://github.com/khulnasoft-opensource/trending/commit/ccd2f6c8da01d1827f8a42423d3212f1e5f42ff2))
 
 
 ### 🍕 Features
 
-* Add flex wrapper around repo list content ([#443](https://github.com/khulnasoft-opensource/hot/issues/443)) ([13f61f9](https://github.com/khulnasoft-opensource/hot/commit/13f61f9b341ae0a536e412cf8ae23d8d825f18fb))
+* Add flex wrapper around repo list content ([#443](https://github.com/khulnasoft-opensource/trending/issues/443)) ([13f61f9](https://github.com/khulnasoft-opensource/trending/commit/13f61f9b341ae0a536e412cf8ae23d8d825f18fb))
 
-## [2.32.0-beta.1](https://github.com/khulnasoft-opensource/hot/compare/v2.31.1-beta.1...v2.32.0-beta.1) (2023-05-21)
+## [2.32.0-beta.1](https://github.com/khulnasoft-opensource/trending/compare/v2.31.1-beta.1...v2.32.0-beta.1) (2023-05-21)
 
 
 ### 🍕 Features
 
-* Add flex wrapper around repo list content ([#443](https://github.com/khulnasoft-opensource/hot/issues/443)) ([13f61f9](https://github.com/khulnasoft-opensource/hot/commit/13f61f9b341ae0a536e412cf8ae23d8d825f18fb))
+* Add flex wrapper around repo list content ([#443](https://github.com/khulnasoft-opensource/trending/issues/443)) ([13f61f9](https://github.com/khulnasoft-opensource/trending/commit/13f61f9b341ae0a536e412cf8ae23d8d825f18fb))
 
-## [2.31.1-beta.1](https://github.com/khulnasoft-opensource/hot/compare/v2.31.0...v2.31.1-beta.1) (2023-05-18)
+## [2.31.1-beta.1](https://github.com/khulnasoft-opensource/trending/compare/v2.31.0...v2.31.1-beta.1) (2023-05-18)
 
 
 ### 🐛 Bug Fixes
 
-* correct squoosh leveled dependencies ([#468](https://github.com/khulnasoft-opensource/hot/issues/468)) ([c6da752](https://github.com/khulnasoft-opensource/hot/commit/c6da7523180ed6789bd9ae2189e152cc7faafa0a))
+* correct squoosh leveled dependencies ([#468](https://github.com/khulnasoft-opensource/trending/issues/468)) ([c6da752](https://github.com/khulnasoft-opensource/trending/commit/c6da7523180ed6789bd9ae2189e152cc7faafa0a))
 
 
 ### 🔁 Continuous Integration
 
-* correct build environment ([7b6ee33](https://github.com/khulnasoft-opensource/hot/commit/7b6ee335256a3f78158b6be5a33e395e92a50518))
+* correct build environment ([7b6ee33](https://github.com/khulnasoft-opensource/trending/commit/7b6ee335256a3f78158b6be5a33e395e92a50518))
 
 
 ### 🤖 Build System
 
-* correct node version in docker build ([ccd2f6c](https://github.com/khulnasoft-opensource/hot/commit/ccd2f6c8da01d1827f8a42423d3212f1e5f42ff2))
+* correct node version in docker build ([ccd2f6c](https://github.com/khulnasoft-opensource/trending/commit/ccd2f6c8da01d1827f8a42423d3212f1e5f42ff2))
 
 ## [2.31.0](https://github.com/khulnasoft-opensource/trending/compare/v2.30.0...v2.31.0) (2023-05-16)
 
